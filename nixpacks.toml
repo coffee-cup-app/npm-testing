@@ -2,4 +2,4 @@
 nixPkgs = ["cowsay", "..."]
 
 [start]
-cmd = "cowsay started!"
+cmd = "cowsay started"
